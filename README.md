@@ -1,4 +1,4 @@
-<h1: align="center"> World Cup Calendar</h1>
+<h1 align="center"> World Cup Calendar</h1>
 
 <p align="center">
 Evento promovido pela Rocketseat para ensino de tecnologias WEB.
