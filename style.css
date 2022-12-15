@@ -11,11 +11,12 @@
   --background: url(./assets/bg-yellow.svg);
 }
 
+
 body.blue {
   --card-title-border-color: #338af3;
   --card-color-primary: #338af3;
   --card-background-color: #202024;
-  --background: url(./assets/bg-blue.svg);
+  --background: url(./assets/Live-Motion-Background.svg);
 }
 
 body.green {
@@ -38,9 +39,9 @@ ul {
 body {
   background-color: #121214;
   background-image: var(--background);
-  background-position: top center;
-  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
+  background-attachment: scroll;
 }
 
 body * {
